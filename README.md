@@ -1,4 +1,4 @@
-# Aplicação: Busca de Atletas
+# Aplicação: Busca de Atletas - Projeto da Imersão Dev da Alura
 
 **Descrição:**
 
